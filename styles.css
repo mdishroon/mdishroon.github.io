@@ -1,10 +1,10 @@
 @font-face{
     font-family: "Super Funky";
-    src:url("/DISHROON_PP2/font.ttf") format("truetype");
+    src:url("font.ttf") format("truetype");
 }
 
 body{
-    background: url("../DISHROON_PP2/wallpaper.jpg");
+    background: url("wallpaper.jpg");
     background-size: auto;
 }
 
@@ -65,7 +65,7 @@ a{
     width: 90px;
     height: 90px;
     border: 1px solid rgb(255, 255, 255);
-    background: url("../DISHROON_PP2/puzzleImage.jpg");
+    background: url("puzzleImage.jpg");
     cursor: pointer;
 }
 
